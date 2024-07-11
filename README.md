@@ -1,8 +1,19 @@
-Para un día de astronomía en un curso de verano de 4 horas, tu temario parece muy bien estructurado y atractivo. Sin embargo, para asegurarnos de que los niños se mantengan interesados y que el tiempo sea bien aprovechado, es importante ajustar el contenido para que sea manejable dentro del tiempo disponible. Aquí te dejo una propuesta con pequeños ajustes:
+### Temario de Astronomía para niños
 
-### Temario de Astronomía para el Colegio Axayacatl
 
-#### Introducción (30 minutos)
+### Temario
+#### Introducción (20 minutos)
+#### Sesión 1: Astros en el Cielo Nocturno (40 minutos)
+#### Sesión 2: Nuestro Sistema Solar (40 minutos)
+#### Sesión 3: Estrellas y Nebulosas (40 minutos)
+#### Sesión 4: Galaxias y el Universo (30 minutos)
+#### Actividad Final: Embotella una Nebulosa (45 minutos)
+#### Conclusión (15 minutos)
+
+### Total: 240 minutos (4 horas)
+
+
+#### Introducción (20 minutos)
 - **¿Qué es la Astronomía?**
   - Pregunta detonadora: ¿Qué es astronomía?
   - Desglose de la palabra: "Astro" (estrella) y "nomía" (estudio).
@@ -10,7 +21,7 @@ Para un día de astronomía en un curso de verano de 4 horas, tu temario parece 
 
 *Actividad:* Mini trivia sobre las diferencias (con premios pequeños).
 
-#### Sesión 1: Astros en el Cielo Nocturno (45 minutos)
+#### Sesión 1: Astros en el Cielo Nocturno (40 minutos)
 - **Introducción a los astros:**
   - Pregunta detonadora: ¿Qué ven en el cielo nocturno?
   - Dibujar lo que observan y compartir.
@@ -19,13 +30,13 @@ Para un día de astronomía en un curso de verano de 4 horas, tu temario parece 
 
 *Actividad:* Dibujar sus propias constelaciones y contar una pequeña historia sobre ellas.
 
-#### Sesión 2: Nuestro Sistema Solar (45 minutos)
+#### Sesión 2: Nuestro Sistema Solar (40 minutos)
 - **¿Conoces el sistema solar?**
   - Descripción breve de los planetas del sistema solar.
 
 *Actividad:* Explora Marte [aquí](https://spaceplace.nasa.gov/explore-mars/sp/). Proporcionar tablets o computadoras para la actividad interactiva.
 
-#### Sesión 3: Estrellas y Nebulosas (45 minutos)
+#### Sesión 3: Estrellas y Nebulosas (40 minutos)
 - **Estrellas:**
   - ¿Qué es una estrella?
   - Ciclo de vida de una estrella (breve).
@@ -82,3 +93,4 @@ Para un día de astronomía en un curso de verano de 4 horas, tu temario parece 
 - **Revisión de lo aprendido:**
   - Pequeña trivia o juego de preguntas y respuestas para repasar los conceptos.
   - Espacio para preguntas y comentarios de los niños.
+
