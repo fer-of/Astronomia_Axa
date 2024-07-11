@@ -82,5 +82,3 @@ Para un día de astronomía en un curso de verano de 4 horas, tu temario parece 
 - **Revisión de lo aprendido:**
   - Pequeña trivia o juego de preguntas y respuestas para repasar los conceptos.
   - Espacio para preguntas y comentarios de los niños.
-
-Con este ajuste, el temario abarca todos los temas esenciales y mantiene un ritmo adecuado para un día de 4 horas, incluyendo actividades prácticas y momentos de interacción para mantener a los niños interesados y activos.
