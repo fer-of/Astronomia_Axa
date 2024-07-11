@@ -1,17 +1,18 @@
-### Temario de Astronomía para niños
+## Temario de Astronomía para niños
 
 
-### Temario
-#### Introducción (20 minutos)
-#### Sesión 1: Astros en el Cielo Nocturno (40 minutos)
-#### Sesión 2: Nuestro Sistema Solar (40 minutos)
-#### Sesión 3: Estrellas y Nebulosas (40 minutos)
-#### Sesión 4: Galaxias y el Universo (30 minutos)
-#### Actividad Final: Embotella una Nebulosa (45 minutos)
-#### Conclusión (15 minutos)
+## Temario
+
+##### Introducción (20 minutos)
+##### Sesión 1: Astros en el Cielo Nocturno (40 minutos)
+##### Sesión 2: Nuestro Sistema Solar (40 minutos)
+##### Sesión 3: Estrellas y Nebulosas (40 minutos)
+##### Sesión 4: Galaxias y el Universo (30 minutos)
+##### Actividad Final: Embotella una Nebulosa (45 minutos)
+##### Conclusión (15 minutos)
 
 ### Total: 240 minutos (4 horas)
-
+___________________________________________________________________________________________
 
 #### Introducción (20 minutos)
 - **¿Qué es la Astronomía?**
@@ -50,6 +51,8 @@
   - Explicación con ejemplos simples como la Vía Láctea.
 
 *Actividad:* Dibujar y colorear diferentes tipos de galaxias.
+
+___________________________________________________________________________________________
 
 ### Actividad Final: Embotella una Nebulosa (45 minutos)
 #### Materiales
