@@ -1,35 +1,46 @@
-# Astronomia_Axa
-Creacion de clase sobre astronomia para el Colegio Axayacatl-Propuesta
+Para un día de astronomía en un curso de verano de 4 horas, tu temario parece muy bien estructurado y atractivo. Sin embargo, para asegurarnos de que los niños se mantengan interesados y que el tiempo sea bien aprovechado, es importante ajustar el contenido para que sea manejable dentro del tiempo disponible. Aquí te dejo una propuesta con pequeños ajustes:
 
+### Temario de Astronomía para el Colegio Axayacatl
 
-## Temario
-- ¿Que es la Astronomia?
-  - Pregunta detonadora: ¿Qué es astronomia?
-  - Desgloce de la palabra: "Astro" (estrella) y "nomía" (estudio).
-  - Diferencia entre astonomia, astrologia, astrofisica, cosmologia
-- Introduccion a los astros
-  - Pregunta detonadora: ¿Ustedes que ven en el cielo nocturno?
-    Dibujalo mientras compartimos
-  - Estrellas, planetas, lunas, constelaciones
-  - Historia de la constelacion de Orion y Escorpio
--Nuestro sistema solar
-  - ¿Conoces el sistema solar?
-  - Descripcion de los planetas del sistema solar
-Actividad: Explora marte "https://spaceplace.nasa.gov/explore-mars/sp/"
--Estrellas y nebulosas
-  -Estrella
-    - ¿Que es una estrella?
-    - Ciclo de vida de una estrella(breve)
-  - Nebulosa
-    -¿Que son y como se forman?
-- Galaxia y el Universo
-  - ¿Que es una galaxia?(ejemplo simples como Via Lactea)
-Claro, vamos a darle más coherencia y detalle a la actividad final para que sea fácil de seguir y se comprenda bien.
+#### Introducción (30 minutos)
+- **¿Qué es la Astronomía?**
+  - Pregunta detonadora: ¿Qué es astronomía?
+  - Desglose de la palabra: "Astro" (estrella) y "nomía" (estudio).
+  - Diferencias entre astronomía, astrología, astrofísica y cosmología.
 
+*Actividad:* Mini trivia sobre las diferencias (con premios pequeños).
 
+#### Sesión 1: Astros en el Cielo Nocturno (45 minutos)
+- **Introducción a los astros:**
+  - Pregunta detonadora: ¿Qué ven en el cielo nocturno?
+  - Dibujar lo que observan y compartir.
+  - Estrellas, planetas, lunas, constelaciones.
+  - Historia de la constelación de Orión y Escorpio.
 
-### Actividad Final: Embotella una Nebulosa
+*Actividad:* Dibujar sus propias constelaciones y contar una pequeña historia sobre ellas.
 
+#### Sesión 2: Nuestro Sistema Solar (45 minutos)
+- **¿Conoces el sistema solar?**
+  - Descripción breve de los planetas del sistema solar.
+
+*Actividad:* Explora Marte [aquí](https://spaceplace.nasa.gov/explore-mars/sp/). Proporcionar tablets o computadoras para la actividad interactiva.
+
+#### Sesión 3: Estrellas y Nebulosas (45 minutos)
+- **Estrellas:**
+  - ¿Qué es una estrella?
+  - Ciclo de vida de una estrella (breve).
+- **Nebulosas:**
+  - ¿Qué son y cómo se forman?
+
+*Actividad:* Crear una "nebulosa en un frasco" (preparar los materiales con anticipación para agilizar el proceso).
+
+#### Sesión 4: Galaxias y el Universo (30 minutos)
+- **¿Qué es una galaxia?**
+  - Explicación con ejemplos simples como la Vía Láctea.
+
+*Actividad:* Dibujar y colorear diferentes tipos de galaxias.
+
+### Actividad Final: Embotella una Nebulosa (45 minutos)
 #### Materiales
 - Frascos o botellas transparentes (de cualquier forma o tamaño, pero deben poder cerrarse)
 - Algodón
@@ -58,7 +69,7 @@ Claro, vamos a darle más coherencia y detalle a la actividad final para que sea
 6. **Finalizar y cerrar el frasco:**
    - Una vez que el frasco esté lleno, coloca la tapa y ciérralo bien. ¡Listo! Ahora tienes una nebulosa embotellada.
 
-#### Explicación para los niños, retomando conceptos de la clase:
+#### Explicación para los niños:
 - **¿Qué es una nebulosa?**
   - Las nebulosas son enormes nubes de gas y polvo en el espacio donde nacen las estrellas. Los colores que vemos en las nebulosas son el resultado de diferentes gases brillando a distintas temperaturas.
   
@@ -67,4 +78,9 @@ Claro, vamos a darle más coherencia y detalle a la actividad final para que sea
   - Los colorantes simulan los distintos gases que componen la nebulosa.
   - La purpurina imita el brillo de las estrellas y otras partículas en la nebulosa.
 
+### Conclusión (15 minutos)
+- **Revisión de lo aprendido:**
+  - Pequeña trivia o juego de preguntas y respuestas para repasar los conceptos.
+  - Espacio para preguntas y comentarios de los niños.
 
+Con este ajuste, el temario abarca todos los temas esenciales y mantiene un ritmo adecuado para un día de 4 horas, incluyendo actividades prácticas y momentos de interacción para mantener a los niños interesados y activos.
